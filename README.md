@@ -1,5 +1,3 @@
-Yes. For GitHub, the best version is to lean into **HTML inside Markdown**: centered hero, animated typing SVG, badges, GIF/video-like embeds where GitHub supports them, collapsible sections, tables, and stylized terminal blocks.
-
 ````md
 <div align="center">
 
@@ -422,5 +420,3 @@ The projects are intentional.
 
 </div>
 ```
-
-This version will actually **render as a stylized GitHub README**, with the animated typing header, icon stack, badges, HTML alignment, tables, terminal-style diagrams, collapsible-looking visual structure, and a strong CTA to the live portfolio.

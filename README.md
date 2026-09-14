@@ -226,6 +226,6 @@ The same principle drives the portfolio, the products, and the systems behind th
 
 <br>
 
-**Built by Anay Sharma · Founder — Ascendancy**
+**Built by Anay Sharma**
 
 </div>
